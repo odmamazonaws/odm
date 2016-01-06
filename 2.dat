@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dictionary title="EnglishHindi-bilingual" sourceLanguage="en" targetLanguage="hi">
+  <entry id="genID_5742" xml:lang="en">
+    <heading>
+      <headword>admit+test1</headword>
+      <variants>
+        <variant id="genID_uHgNGj">
+          <text>(admitting</text>
+        </variant>
+        <variant id="genID_C5g6gK">
+          <text>admitted)</text>
+        </variant>
+      </variants>
+      <lexicalCategory taxonomyId="verb">verb</lexicalCategory>
+      <pronunciations>
+        <pronunciation>
+          <phonetics id="genID_A3THkR" type="IPA">ədˈmɪt</phonetics>
+          <phonetics id="genID_2RJorI" type="soundslike">अड्ˈमिट्‌</phonetics>
+        </pronunciation>
+      </pronunciations>
+    </heading>
+    <senses>
+      <sense id="genID_fl9xDs">
+        <grs>
+          <gr>I</gr>
+          <gr>T</gr>
+        </grs>
+        <definitions>
+          <definition>
+            <text>to agree that sth unpleasant is true or that you have done sth wrong</text>
+          </definition>
+        </definitions>
+        <antonyms>
+          <antonym targetId="genID_94576" targetType="deny">विलोम</antonym>
+        </antonyms>
+        <translations>
+          <translation translationOf="genID_fl9xDs" xml:lang="hi">
+            <text>किसी अप्रिय बात की सत्‍यता स्‍वीकारना या अपनी ग़लती मान लेना</text>
+          </translation>
+        </translations>
+        <examples>
+          <example id="genID_qmsko0">
+            <text>He refused to admit to the theft.</text>
+          </example>
+          <example id="genID_kr02w6">
+            <text>I have to admit (that) I was wrong.</text>
+          </example>
+          <example id="genID_vmITfm">
+            <text>She admitted having broken the computer.</text>
+          </example>
+        </examples>
+        <constructions>
+          <construction id="genID_1jMh9x">
+            <text>admit sth</text>
+          </construction>
+          <construction id="genID_acaKeM">
+            <text>admit to sth/doing sth</text>
+          </construction>
+          <construction id="genID_viVpq3">
+            <text>admit(that…)</text>
+          </construction>
+        </constructions>
+      </sense>
+      <sense id="genID_1Z385F">
+        <grs>
+          <gr>T</gr>
+        </grs>
+        <definitions>
+          <definition>
+            <text>to allow sb/sth to enter; to take sb into a place</text>
+          </definition>
+        </definitions>
+        <translations>
+          <translation translationOf="genID_1Z385F" xml:lang="hi">
+            <text>प्रवेश करने देना; भरती करना</text>
+          </translation>
+        </translations>
+        <examples>
+          <example id="genID_pqt3j8">
+            <text>He was admitted to hospital with suspected appendicitis.</text>
+          </example>
+        </examples>
+        <constructions>
+          <construction id="genID_KrYo3W">
+            <text>admit sb/sth(into/to sth)</text>
+          </construction>
+        </constructions>
+      </sense>
+    </senses>
+  </entry>
+</dictionary>
